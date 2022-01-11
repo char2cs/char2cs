@@ -1,5 +1,6 @@
 # Mateo Kowalczyk Urrutia
-🧑‍💻 Full stack developer. 
+🧑‍💻 Full stack developer.
+🧑‍🎓 Studient of Engineering informatics @ USAL.
 
 ## About Me
 Currently working on a CSGO platform called RECON.
