@@ -3,7 +3,7 @@
 
 ## About Me
 Currently working on a CSGO platform called RECON.
-This project has introduce me into programming though I actually have developed a BATCH application before, but never this big.
+This project has introduce me into programming though I actually have developed an small project (based on batch files), but never this big.
 Knowledge in C++/C, JavaScript, PhP, HTML/CSS and MySQL.
 
 ## Social Media
