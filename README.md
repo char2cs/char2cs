@@ -3,7 +3,7 @@
 - 🧑‍🎓 Studient of Engineering informatics @ USAL.
 
 ## About Me
-I consider myself as a developer, as I like to have the bigger picture of the project in mind whenever I'm working on it.
+I consider myself as a developer, as I like to have the bigger picture of the project I'm currently working on.
 Currently working on a CSGO platform called RECON. This project has introduce me into programming dispite the fact that I actually developed an small project (based on batch files).
 
 ## Knowledge
