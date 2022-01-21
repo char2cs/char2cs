@@ -13,7 +13,6 @@ Working on a CSGO platform called RECON.
 - MySQL
 - HTML/CSS
 - Sourcepawn
-- Batchfiles
 
 ## Social Media
 - [🐤 Twitter](https://twitter.com/char2cs)
