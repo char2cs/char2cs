@@ -10,6 +10,7 @@ Working on a CSGO platform called RECON.
 - C++/C
 - JavaScript
   - A little of Node.JS
+  - JQuery
 - PhP
 - MySQL
 - HTML/CSS
