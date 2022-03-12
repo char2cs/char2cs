@@ -1,4 +1,4 @@
-# Mateo Kowalczyk Urrutia
+# Mateo "charlie" Kowalczyk Urrutia
 - 🧑‍💻 Full stack developer.
 - 🧑‍🎓 Studient of Engineering informatics @ USAL.
 
