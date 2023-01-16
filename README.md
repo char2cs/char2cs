@@ -3,8 +3,7 @@
 - 🧑‍🎓 Studient of Engineering informatics @ USAL.
 
 ## About Me
-I consider myself as a developer, as I like to have the bigger picture of the project I'm currently working on.
-Working on a CSGO platform called DOT.RECON.
+Full Stack Developer, currently working on a PhP framework called .DOT, and also working on a CSGO platform called DOT.RECON
 
 ## Knowledge
 - C++/C
