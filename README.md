@@ -3,13 +3,11 @@
 - 🧑‍🎓 Studient of Engineering informatics @ USAL.
 
 ## About Me
-Full Stack Developer, currently working on a PhP framework called .DOT, and also working on a CSGO platform called DOT.RECON
+Full Stack Developer, currently working on a PhP framework called .DOT, and also working on a CSGO platform called DOT.RECON. 
 
 ## Knowledge
 - C++/C
-- JavaScript
-  - A little of Node.JS
-  - JQuery
+- JavaScript (DOM manipulation && Serverside applications)
 - PhP
 - MySQL
 - HTML/CSS
