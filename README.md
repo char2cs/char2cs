@@ -9,6 +9,8 @@ Currently working on a PhP framework called .DOT, and also working on a CSGO pla
 - C++/C
 - JavaScript (DOM manipulation && Serverside applications)
 - PhP
+- Golang
+- Redis
 - MySQL
 - HTML/CSS
 
