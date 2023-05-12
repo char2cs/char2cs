@@ -7,7 +7,8 @@ Currently working on a PhP framework called .DOT, and also working on a CSGO pla
 
 ## Knowledge
 - C++/C
-- JavaScript (DOM manipulation && Serverside applications)
+- JavaScript (DOM manipulation && NodeJS)
+- WebSockets (socket.io)
 - PhP
 - Docker && Docker-compose
 - Golang
