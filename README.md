@@ -4,12 +4,11 @@ Mateo Urrutia
 Full Stack Developer
 --------------------
 
-Self-taught creative programmer with a knack for productivity. In the last two years, I crafted an entire CS2 platform from scratch. As a full stack developer, I specialize in front-end magic while confidently juggling SQL and NoSQL databases.
+Full-stack developer with experience in building tools, leading tasks, and managing infrastructure. Specialized in scalable web applications and modern frontends with Next.js. Skilled in creating APIs, CRUD systems, and dynamic admin panels to optimize data management and user interaction. Linux enthusiast, experienced in configuring virtual environments with Proxmox and efficiently containerizing services with Docker.
 
 * 🌍  I'm based in Pilar, Buenos Aires, Argentina
-* 🖥️  See my portfolio at [char2cs.rounds.com.ar](http://char2cs.rounds.com.ar)
-* ✉️  Let's talk [mateourru@gmail.com](mailto:mateourru@gmail.com)
-* 🚀  Currently working on [ROUNDS](http://rounds.com.ar)
+* 🖥️  See my portfolio at [char2cs.net](http://char2cs.net)
+* ✉️  Let's talk [me@char2cs.net](mailto:me@char2cs.net)
 
 <a href="https://www.x.com/char2cs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/char2cs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
