@@ -1,6 +1,6 @@
 Mateo Urrutia
 =====================================================================================================================================
-
+![Banner](https://raw.githubusercontent.com/char2cs/char2cs/refs/heads/main/Banner.png)
 Full Stack Developer
 --------------------
 
